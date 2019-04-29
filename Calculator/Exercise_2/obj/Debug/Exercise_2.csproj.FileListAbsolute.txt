@@ -1,0 +1,21 @@
+C:\Users\Lew\Desktop\Exercise_2\Exercise_2\bin\Debug\Exercise_2.exe.config
+C:\Users\Lew\Desktop\Exercise_2\Exercise_2\obj\Debug\Exercise_2.csprojResolveAssemblyReference.cache
+C:\Users\Lew\Desktop\Exercise_2\Exercise_2\obj\Debug\Exercise_2.frmCalc.resources
+C:\Users\Lew\Desktop\Exercise_2\Exercise_2\obj\Debug\Exercise_2.Properties.Resources.resources
+C:\Users\Lew\Desktop\Exercise_2\Exercise_2\obj\Debug\Exercise_2.csproj.GenerateResource.Cache
+C:\Users\Lew\Desktop\Exercise_2\Exercise_2\bin\Debug\Exercise_2.exe
+C:\Users\Lew\Desktop\Exercise_2\Exercise_2\bin\Debug\Exercise_2.pdb
+C:\Users\Lew\Desktop\Exercise_2\Exercise_2\obj\Debug\Exercise_2.exe
+C:\Users\Lew\Desktop\Exercise_2\Exercise_2\obj\Debug\Exercise_2.pdb
+N:\Programming Projects\C# Projects\Calculator\Exercise_2\bin\Debug\Exercise_2.exe.config
+N:\Programming Projects\C# Projects\Calculator\Exercise_2\obj\Debug\Exercise_2.exe
+N:\Programming Projects\C# Projects\Calculator\Exercise_2\obj\Debug\Exercise_2.pdb
+D:\Programming Projects\C# Projects\Calculator\Exercise_2\bin\Debug\Exercise_2.exe.config
+D:\Programming Projects\C# Projects\Calculator\Exercise_2\obj\Debug\Exercise_2.exe
+D:\Programming Projects\C# Projects\Calculator\Exercise_2\obj\Debug\Exercise_2.pdb
+D:\Programming Projects\C# Projects\Calculator\Exercise_2\bin\Debug\Exercise_2.exe
+D:\Programming Projects\C# Projects\Calculator\Exercise_2\bin\Debug\Exercise_2.pdb
+D:\Programming Projects\C# Projects\Calculator\Exercise_2\obj\Debug\Exercise_2.csprojResolveAssemblyReference.cache
+D:\Programming Projects\C# Projects\Calculator\Exercise_2\obj\Debug\Exercise_2.frmCalc.resources
+D:\Programming Projects\C# Projects\Calculator\Exercise_2\obj\Debug\Exercise_2.Properties.Resources.resources
+D:\Programming Projects\C# Projects\Calculator\Exercise_2\obj\Debug\Exercise_2.csproj.GenerateResource.Cache

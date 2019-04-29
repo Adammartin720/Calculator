@@ -1,0 +1,15 @@
+\\studentshares\178245\desktop\Calculator\Exercise_2\bin\Debug\Exercise_2.exe.config
+\\studentshares\178245\desktop\Calculator\Exercise_2\obj\Debug\Exercise_2.exe
+\\studentshares\178245\desktop\Calculator\Exercise_2\obj\Debug\Exercise_2.pdb
+N:\Year 2\Calculator\Exercise_2\bin\Debug\Exercise_2.exe.config
+N:\Year 2\Calculator\Exercise_2\obj\Debug\Exercise_2.exe
+N:\Year 2\Calculator\Exercise_2\obj\Debug\Exercise_2.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Calculator\Exercise_2\bin\Debug\Exercise_2.exe.config
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Calculator\Exercise_2\bin\Debug\Exercise_2.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Calculator\Exercise_2\bin\Debug\Exercise_2.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Calculator\Exercise_2\obj\Debug\Exercise_2.frmCalc.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Calculator\Exercise_2\obj\Debug\Exercise_2.Properties.Resources.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Calculator\Exercise_2\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Calculator\Exercise_2\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Calculator\Exercise_2\obj\Debug\Exercise_2.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Year 2\Csharp\Calculator\Exercise_2\obj\Debug\Exercise_2.pdb
